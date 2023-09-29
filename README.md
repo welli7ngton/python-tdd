@@ -16,10 +16,16 @@ O TDD ajuda a garantir que seu código seja testável, robusto e atenda aos requ
 Este repositório contém uma série de exemplos práticos e tutoriais que abordam os seguintes tópicos:
 
 Configuração do ambiente de teste com unittest.
+
 Escrevendo testes de unidade usando as asserções do unittest.
+
 Organização de testes em classes e métodos.
+
 Testes de borda e testes de casos normais.
+
 Testes de exceção e manipulação de erros.
+
 Integração do TDD em seu fluxo de trabalho de desenvolvimento.
-Como Usar Este Repositório
+
+## Como Usar Este Repositório
 Você pode clonar este repositório e explorar os exemplos e tutoriais disponíveis. Cada diretório ou arquivo está relacionado a um tópico específico e contém instruções claras e exemplos de código. Siga os passos descritos nos tutoriais para aprender e praticar TDD com Python e o módulo unittest.
